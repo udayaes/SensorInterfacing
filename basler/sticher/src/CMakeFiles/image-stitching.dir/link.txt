@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/image-stitching.dir/main.cc.o -o image-stitching  libopenpano.a -ljpeg third-party/liblodepng.a 
